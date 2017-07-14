@@ -1,5 +1,5 @@
 # Picture-Puzzle-Jigsaw-Xtreme
-Simple tile sliding game made written in Turing. 
+Simple tile sliding game written in Turing. Because high school.
 
 Get Turing here: https://github.com/Open-Turing-Project/OpenTuring
 
